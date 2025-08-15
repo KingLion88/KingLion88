@@ -1,4 +1,6 @@
-## Hi there 👋
+## Lead Developer
+
+Highly skilled Senior TypeScript Developer with over 10 years of experience in designing, developing, and maintaining scalable web applications. Proficient in leveraging modern frameworks and libraries, including Angular, React, and Node.js, to deliver high-quality software solutions. Passionate about clean code, agile methodologies, and continuous improvement.
 
 <!--
 **KingLion88/KingLion88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
