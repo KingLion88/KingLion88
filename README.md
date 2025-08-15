@@ -4,7 +4,7 @@ Highly skilled Senior TypeScript Developer with over 10 years of experience in d
 
 # Certificate
 
-[![HackerRank Certificate](path/to/certificate-screenshot.png)](https://www.hackerrank.com/certificates/iframe/528a08b7a65e)
+[![HackerRank Certificate]](https://www.hackerrank.com/certificates/528a08b7a65e)
 
 <!--
 **KingLion88/KingLion88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
