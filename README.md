@@ -2,10 +2,11 @@
 
 Highly skilled Senior TypeScript Developer with over 10 years of experience in designing, developing, and maintaining scalable web applications. Proficient in leveraging modern frameworks and libraries, including Angular, React, and Node.js, to deliver high-quality software solutions. Passionate about clean code, agile methodologies, and continuous improvement.
 
-# Certificate
+# React Certificate
+[![React_Certificate](./react-certificate.png)](https://www.hackerrank.com/certificates/528a08b7a65e)
 
-[![Frontend_Certificate](./react-certificate.png)](https://www.hackerrank.com/certificates/528a08b7a65e)
-
+#Node Certificate
+[![Node_Certificate](./node-certificate.png)](https://www.hackerrank.com/certificates/2294774c78c6)
 
 <!--
 **KingLion88/KingLion88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
